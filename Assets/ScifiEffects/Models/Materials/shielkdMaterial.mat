@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: shielkdMaterial
+  m_Shader: {fileID: 4800000, guid: 9429a4fcd5a08d04ea8a18f11bc8815a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AllPower: 1.7462686
+    - _AlphaPower: 2.2089553
+    - _InnerColorPower: 0.4402985
+    - _RimPower: 1.9402986
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _InnerColor: {r: 0.34812877, g: 0.55992746, b: 0.9925373, a: 0.5019608}
+    - _RimColor: {r: 0.16417909, g: 0.33368102, b: 1, a: 0.5019608}

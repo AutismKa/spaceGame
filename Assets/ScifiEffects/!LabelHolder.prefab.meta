@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: f6913c512f990704b9acbd069498c485
+labels:
+- RPG
+- weapon
+- military
+- enemy
+- alien
+- sci-fi
+- space
+- spaceship
+- ship
+- star
+- pack
+- shooter
+- shoot
+- effect
+- creature
+- zerg
+- rocket
+- missile
+- plasma
+- laser
+- particle
+timeCreated: 18446744011573954816
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

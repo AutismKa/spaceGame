@@ -1,0 +1,29 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mothership_specular.dds
+map_Ka mothership_specular.dds
+bump mothership_normal.dds -bm -1.0328
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.5 0.5 hexgrid1_blue.dds
+map_Ka -s 0.5 0.5 hexgrid1_blue.dds
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mothership_specular.dds
+map_Ka mothership_specular.dds
+bump mothership_normal.dds -bm -1.0328
+Ni 1.00
+Ks 0.50 0.50 0.50
